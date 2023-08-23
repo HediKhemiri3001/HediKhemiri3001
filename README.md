@@ -26,13 +26,13 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, Terraform and other devops tools.**
+- 🔭 I’m currently working on **Azure, AWS, Terraform and other devops tools.**
 
 - 🌱 I’m currently learning **CI/CD pipelines and best practices.**
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- ☁️ I've keen interest in cloud computing. So,I'm learning **Azure**
 
-- 💬 Ask me about **React, Angular, Express, NestJS, NextJS, RabbitMQ, Java**
+- 💬 Ask me about **React, Angular, Express, NestJS, NextJS, RabbitMQ, Java, Docker, Ansible**
 
 - 📫 Feel free to reach me out **khemirimedhedi@gmail.com**
 
